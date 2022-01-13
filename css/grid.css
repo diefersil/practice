@@ -4,14 +4,10 @@
 }
 
 .container div{
-
     max-width: 50px;
     min-height: 50px;
     background-color: white;
     color: white;
     border: 1px solid;
-
-
-
 }
 
