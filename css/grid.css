@@ -6,9 +6,18 @@
 }
 
 .container div{
+<<<<<<< HEAD
     min-height: 50px;
     background-color: white;
     color: white;
     border: 1px solid yellow;
 }*/
+=======
+    max-width: 50px;
+    min-height: 50px;
+    background-color: white;
+    color: white;
+    border: 1px solid;
+}
+>>>>>>> d0d78b8e2bada318cf4b70460c211ea1211d65ee
 
